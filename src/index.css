@@ -10,3 +10,8 @@ body {
 .App {
   text-align: center;
 }
+
+Button.like-buttons {
+  display: inline;
+  margin-bottom: 10px;
+}
